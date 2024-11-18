@@ -1,4 +1,4 @@
-package com.alexteddy.upsplash.ui.theme
+package com.alexteddy.unsplash.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

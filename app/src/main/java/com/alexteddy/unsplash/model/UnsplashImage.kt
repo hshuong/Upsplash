@@ -1,9 +1,9 @@
-package com.alexteddy.upsplash.model
+package com.alexteddy.unsplash.model
 
 import androidx.room.Embedded
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-import com.alexteddy.upsplash.util.Constants.UNSPLASH_IMAGE_TABLE
+import com.alexteddy.unsplash.util.Constants.UNSPLASH_IMAGE_TABLE
 import kotlinx.serialization.Serializable
 
 @Entity(tableName = UNSPLASH_IMAGE_TABLE)

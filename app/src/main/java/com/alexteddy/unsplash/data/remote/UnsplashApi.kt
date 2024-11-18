@@ -1,6 +1,6 @@
-package com.alexteddy.upsplash.data.remote
-import com.alexteddy.upsplash.BuildConfig
-import com.alexteddy.upsplash.model.UnsplashImage
+package com.alexteddy.unsplash.data.remote
+import com.alexteddy.unsplash.BuildConfig
+import com.alexteddy.unsplash.model.UnsplashImage
 import retrofit2.http.GET
 import retrofit2.http.Headers
 import retrofit2.http.Query

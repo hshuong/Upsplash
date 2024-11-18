@@ -1,4 +1,4 @@
-package com.alexteddy.upsplash
+package com.alexteddy.unsplash
 
 import org.junit.Test
 

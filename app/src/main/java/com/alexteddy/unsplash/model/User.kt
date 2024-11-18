@@ -1,4 +1,4 @@
-package com.alexteddy.upsplash.model
+package com.alexteddy.unsplash.model
 
 import androidx.room.Embedded
 import kotlinx.serialization.SerialName

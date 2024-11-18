@@ -1,6 +1,5 @@
-package com.alexteddy.upsplash.ui.theme
+package com.alexteddy.unsplash.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
